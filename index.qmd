@@ -2,7 +2,7 @@
 title: "julia-lessons"
 listing:
   contents: posts
-  sort: "date desc"
+  sort: "date"
   type: default
   categories: true
   sort-ui: false
