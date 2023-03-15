@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "julia-lessons",
     "section": "",
-    "text": "Blog Header\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 12, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 15, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
+    "text": "Blog Header\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 12, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 12, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 15, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 15, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -23,8 +23,29 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "WONG YueKee",
     "section": "",
-    "text": "About this blog"
+    "text": "WONG YueKee is a data analyst. When not reminiscing about SmallTalk, APL and HyperCard (remember that), he enjoys practicing on the piano and listening to baroque music."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "WONG YueKee",
+    "section": "Education",
+    "text": "Education\nUniversity of Michigan, Ann Arbor | MI, USA PhD in Information Systems | 1984 - 1989\nWharton School of Business, Pennsylvania | PA, USA M.A. in Decision Sciences | 1984\nUniversity of Windsor | Windsor, Canada B.A. (Mathematics); B.A.Sc.(Hons) (Industrial Engineering) |1975"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "WONG YueKee",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "about.html#academic-experience",
+    "href": "about.html#academic-experience",
+    "title": "WONG YueKee",
+    "section": "Academic Experience",
+    "text": "Academic Experience\nProfessor | Singapore University of Social Sciences| 2012-2022\nAssoc Professor | Singapore Management Unversity| 2000-2011"
   }
 ]

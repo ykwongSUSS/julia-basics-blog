@@ -3,7 +3,9 @@
     "listing": "/index.html",
     "items": [
       "/posts/welcome/index.html",
-      "/posts/post-with-code/index.html"
+      "/julia-basics-blog/posts/welcome/index.html",
+      "/posts/post-with-code/index.html",
+      "/julia-basics-blog/posts/post-with-code/index.html"
     ]
   }
 ]
